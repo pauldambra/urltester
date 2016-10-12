@@ -1,0 +1,10 @@
+{
+  "name": "statustester",
+  "version": "0.0.0",
+  "description": "test the http status returned by a set of URLs",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^2.3.0"
+  }
+}
